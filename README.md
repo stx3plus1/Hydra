@@ -26,5 +26,9 @@ Q: How garbage is this?
 
 Very.
 
-## Screenshots
-TBA, when source code is added
+## Screenshots (0.1)
+<img src=/screenshots/warning.png>
+<img src=/screenshots/hydra.png>
+
+### This is what I mean by "GHOST window" 
+<img style="width: 500px; align: left" src=/screenshots/stroke.png>
