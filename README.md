@@ -27,7 +27,7 @@ Q: How garbage is this?
 Very.
 
 ## Screenshots (0.1)
-<img src=/screenshots/warning.png>
+<img src=/screenshots/launch.png>
 <img src=/screenshots/hydra.png>
 
 ### This is what I mean by "GHOST window" 
