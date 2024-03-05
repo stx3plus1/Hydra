@@ -1,12 +1,14 @@
 # Hydra 
 An annoying app, inspired from the site https://www.windows93.net/ written in SwiftUI.
-Currently, all the windows spawn in the same location - but it's almost 5am, and I don't feel sane enough to continue coding this. Patch s0n, when I can position windows.
 
 # WARNING
 Yes, this application is an annoyance.
-CMD + Q will work on it, but the red UI button will NOT, and will spawn 2 more Hydra windows (as macOS does not have a built in OK button)
+CMD + Q will work on it, but the red UI button will NOT, and will spawn 2 more Hydra windows (as macOS does not have a built in OK button, like Windows does.)
 Could this be malware? Not really. You can quit it.
 Sometimes, quitting it can leave a GHOST window. See issues for this.
+
+## Some notes
+For any code that I have "outsourced" the attribution is in the code file.
 
 ## Installation
 Use the build in Releases, or compile yourself with the Xcode project in the source. You can modify strings and code, if you like.
@@ -26,9 +28,9 @@ Q: How garbage is this?
 
 Very.
 
-## Screenshots (0.1)
-<img src=/screenshots/launch.png>
-<img src=/screenshots/hydra.png>
+## Screenshots (1.0)
+<img src=/git-resources/screenshots/launch.png>
+<img src=/git-resources/screenshots/hydra.png>
 
 ### This is what I mean by "GHOST window" 
-<img style="width: 500px; align: left" src=/screenshots/stroke.png>
+<img style="width: 500px; align: left" src=/git-resources/screenshots/stroke.png>

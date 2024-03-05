@@ -13,6 +13,10 @@ struct HydraApp: App {
         WindowGroup {
             ContentView()
         }
+        WindowGroup("Hydra") {
+            HydraWindow()
+        }
+        .handlesExternalEvents(matching: Set(arrayLiteral: "*"))
     }
 }
 
